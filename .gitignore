@@ -1,0 +1,11 @@
+# Biên dịch & thực thi
+*.exe
+*.o
+*.obj
+
+# Dynamic Libraries
+*.dll
+
+# VS Code & Cache
+.vscode/
+*.log
